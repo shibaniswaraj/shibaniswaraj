@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @shibaniswaraj
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+```ruby
+# frozen_string_literal: true
+module Shivani
+  TEXT_EDITOR = "VSCode"
+  PROGRAMMING_INTERESTS = %i[
+   DSA MachineLearning AI AppDev
+   ]
+  FRAMEWORKS = %i[flutter]
+  LIBRARIES = %i[Pandas]
+  DATABASES = %i["sql" : mysql postgresql]
+  IMPERATIVE_LANGUAGES = %i[html cpp c java]
+  DECLARATIVE_LANGUAGES = %i[ python sql dart]
+end
+```
+<!-- &include_all_commits=true -->
 
-<!---
-shibaniswaraj/shibaniswaraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+|<a href="https://github.com/shibaniswaraj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shibaniswaraj&count_private=true&show_icons=true&theme=dracula&hide_border=true" alt="shibaniswaraj's github stats" /></a> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shibaniswaraj&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
+| ------------- | ------------- |
+
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uneconomicalfairy14&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
+
