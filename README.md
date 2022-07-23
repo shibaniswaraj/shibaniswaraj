@@ -3,7 +3,7 @@
 module Shivani
   TEXT_EDITOR = "VSCode"
   PROGRAMMING_INTERESTS = %i[
-   DSA MachineLearning AI AppDev
+   DSA MachineLearning AI AppDev WebDev
    ]
   FRAMEWORKS = %i[flutter]
   LIBRARIES = %i[Pandas]
