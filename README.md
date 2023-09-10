@@ -5,7 +5,7 @@ module Shivani
   PROGRAMMING_INTERESTS = %i[
    DSA MachineLearning AI AppDev WebDev
    ]
-  FRAMEWORKS = %i[flutter]
+  FRAMEWORKS = %i[flutter react reactnative]
   LIBRARIES = %i[Pandas]
   DATABASES = %i["sql" : mysql postgresql]
   IMPERATIVE_LANGUAGES = %i[html cpp c java]
